@@ -1,0 +1,15 @@
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/bin/Debug/net7.0/Uloha_3_ctverce
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/bin/Debug/net7.0/Uloha_3_ctverce.deps.json
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/bin/Debug/net7.0/Uloha_3_ctverce.runtimeconfig.json
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/bin/Debug/net7.0/Uloha_3_ctverce.dll
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/bin/Debug/net7.0/Uloha_3_ctverce.pdb
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.csproj.AssemblyReference.cache
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.AssemblyInfoInputs.cache
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.AssemblyInfo.cs
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.csproj.CoreCompileInputs.cache
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.dll
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/refint/Uloha_3_ctverce.dll
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.pdb
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/Uloha_3_ctverce.genruntimeconfig.cache
+/Users/martin/RiderProjects/uloha_3_ctverce/Uloha_3_ctverce/Uloha_3_ctverce/obj/Debug/net7.0/ref/Uloha_3_ctverce.dll
